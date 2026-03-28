@@ -8,18 +8,15 @@
   <a href="https://yahiamostafa.com/cv/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.crescentconsulting.nl/blog" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Crescent-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Blog">
-  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
--   🚀 I'm currently building robust data & AI solutions at **[Crescent](https://www.crescentconsulting.nl)**.
+-   🚀 I'm currently sopporting ducklings at **[MotherDuck](https://motherduck.com) 🦆**.
 -   💡 I’m looking to collaborate on building useful and modern **data warehousing** solutions.
--   🧠 Ask me about **LLMs, RAG, AI & ETL, Statistical Analyses, Data Infrastructure**.
+-   🧠 Ask me about **LLMs, AI & ETL, Statistical Analyses, Data Infrastructure**.
   
 ---
 ### 🛠️ Tech Stack
