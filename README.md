@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
--   🚀 I'm currently sopporting ducklings at **[MotherDuck](https://motherduck.com) 🦆**.
+-   🚀 I'm currently supporting ducklings at **[MotherDuck](https://motherduck.com) 🦆**.
 -   💡 I’m looking to collaborate on building useful and modern **data warehousing** solutions.
 -   🧠 Ask me about **LLMs, AI & ETL, Statistical Analyses, Data Infrastructure**.
   
